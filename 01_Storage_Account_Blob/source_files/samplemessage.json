@@ -1,0 +1,10 @@
+{
+  "sentence": "I love Azure Data Engineering",
+  "sentiment": "happy",
+  "confidence": 0.95,
+  "reasons": [
+    "The word 'love' strongly conveys positive emotion.",
+    "The sentence expresses enthusiasm for Azure Data Engineering."
+  ]
+}
+
